@@ -5,7 +5,7 @@ The code is being published for preservation and if anyone wishes to improve it 
 The name of this mod derives from the fact that I wanted to kinda overhaul the end list screen to work better, by listing off all the winners, representing factions and also differentiating TTs.
 
 # Notice
-⚠️ **This mod is functionally obsolete.** I don't recommend trying to play with it, as it is untested and will conflict with BetterTOS / QOLMod as both implement some version of what this mod implements.
+⚠️ **This mod is functionally obsolete.** I don't recommend trying to play with it, as it is untested and will conflict with BetterTOS / QOLMod / Improved Water Wheel mod as all of them implement some of what this mod adds.
 
 Additionally, this mod's code may contain traces of the Improved Water Wheel mod in its early stages. This is because I actually started working on that mod inside of this project, as I was thinking of releasing everything at once.
 Later I moved the code to a separate project because I wanted to release that mod independently.
