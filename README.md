@@ -15,6 +15,8 @@ I cut out the code of the Improved Water Wheel mod, but I never tested whether i
 EndListFactions is licensed under **[GNU Lesser General Public License version 3](https://www.gnu.org/licenses/lgpl-3.0.txt)** (shortened to **LGPLv3**).
 You are free to do anything you want, as long as it falls under the terms of this license.
 
+Even though this mod is open-source, due to the nature of Town of Salem modding, I will not be providing any support on how to do so (except explain how my mods work). You're on your own.
+
 # Features
 - **TT icons are tinted. TTs names in the end screen are appended with 'TT'.** This is one of my first additions to the mod (along with the .x% shown on roles). I even coded a special (sort-of) algorithm that figured out who the TT was, if the TT never died (because your client couldn't have known who it was then). Sometime later I gave the code of the TT tint to Tuba, which then later got integrated into BetterTOS... though it doesn't seem to work very well in there :/
 - **Decimals shown on role odds.** Another small feature, this later became part of the Improved Water Wheel mod. Instead of showing whole numbers, which I thought weren't representative enough, the water wheel now showed one decimal of each percentage, ex. `6.7%`. One of the first things I modded into the game.
